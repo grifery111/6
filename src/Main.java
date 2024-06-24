@@ -110,4 +110,4 @@ class food_sticks extends cutlery{
     void restore(){
         System.out.println("Палочка для еды реставрирована.");
     }
-}//a18
+}
